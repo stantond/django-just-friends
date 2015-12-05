@@ -1,0 +1,2 @@
+django-just-friends was created by Daniel Stanton (danielstanton@live.co.uk),
+partly based on django-friendship by Frank Wiles (frank@revsys.com) and various contributors
